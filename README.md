@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![@shubhamkshetre's Holopin board](https://holopin.io/api/user/board?user=shubhamkshetre)](https://holopin.io/@shubhamkshetre)
+[![@shubhamkshetre's Holopin board](https://holopin.io/api/user/board?user=shubhamkshetre)](https://www.holopin.io/@shubhamkshetre#badges)
